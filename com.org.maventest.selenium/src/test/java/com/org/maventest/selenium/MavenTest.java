@@ -80,16 +80,7 @@ public class MavenTest {
 		
 		
 		
-		/*List<WebElement> ele =driver.findElements(By.xpath("//li[@id='menu_1']//ol[@class='blocks blocks-four-up']"));
-		for (WebElement menu_item : ele) 
-		{
-			String inner = menu_item.getAttribute("inner HTML");
-			
-			/*if (inner.contentEquals("Drinks")) {
-				menu_item.click();
-				break;
-			}
-			System.out.println("Text in the menu is "+inner);*/
+		
 		}
 
 
