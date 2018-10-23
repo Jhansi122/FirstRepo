@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17641" started-at="2018-10-21T13:03:47Z" finished-at="2018-10-21T13:04:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17641" started-at="2018-10-21T13:03:47Z" finished-at="2018-10-21T13:04:04Z">
+      <class name="com.org.maventest.selenium.MavenTest">
+        <test-method status="PASS" signature="browser()[pri:1, instance:com.org.maventest.selenium.MavenTest@1efef64]" name="browser" duration-ms="9250" started-at="2018-10-21T13:03:47Z" finished-at="2018-10-21T13:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="image()[pri:2, instance:com.org.maventest.selenium.MavenTest@1efef64]" name="image" duration-ms="1065" started-at="2018-10-21T13:03:56Z" finished-at="2018-10-21T13:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- image -->
+        <test-method status="PASS" signature="selection()[pri:3, instance:com.org.maventest.selenium.MavenTest@1efef64]" name="selection" duration-ms="4832" started-at="2018-10-21T13:03:57Z" finished-at="2018-10-21T13:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selection -->
+        <test-method status="PASS" signature="scroll()[pri:4, instance:com.org.maventest.selenium.MavenTest@1efef64]" name="scroll" duration-ms="1361" started-at="2018-10-21T13:04:02Z" finished-at="2018-10-21T13:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.org.maventest.selenium.MavenTest@1efef64]" name="close" is-config="true" duration-ms="1094" started-at="2018-10-21T13:04:03Z" finished-at="2018-10-21T13:04:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.org.maventest.selenium.MavenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
